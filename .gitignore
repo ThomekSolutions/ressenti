@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+playwright-report/
+.DS_Store
+sauvegarde-journal-*.json
+sauvegarde-ressenti-*.json
+journal-epilepsie-*.pdf
+ressenti-*.pdf
